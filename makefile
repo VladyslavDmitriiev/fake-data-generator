@@ -1,2 +1,2 @@
 all:
-	ts-node index.ts
+	npx ts-node index.ts
